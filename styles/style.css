@@ -1,33 +1,51 @@
 body {
-  max-width: 800px;
-  margin: 0 auto;
+    max-width: 1000px;
+    margin: auto;
 }
 
 .sender-column {
-  text-align: right;
-    
-    
+    text-align: right;
+
+}
+
+address {
+    font-size: 90%;
+    margin-left: 80%;
+    font-style:normal;
+
 }
 
 h1 {
     font-size: 1em;
-    
-      margin-right: 50%;
+
+    margin-right: 50%;
 }
 
 h2 {
-  font-size: 75%;
-        margin-left: 50%;
+    font-size: 75%;
+    margin-left: 50%;
 
-    
+
 }
 
-p,ul,ol,dl,address {
-  font-size: 1.1em;
-    margin-left: 
+p,
+ul,
+ol,
+dl,
+    {
+    font-size: 1.1em;
+    margin-left:
 }
 
-p, li, dd, dt, address {
-  line-height: 1.5;
-      
+p,
+li,
+dd,
+dt,
+    {
+    line-height: 1.5;
+
+
+
+}
+
 }
